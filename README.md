@@ -7,11 +7,11 @@ Daniel Cao
 Melissa Wei  
 
 
-Todo:  
+#Todo:  
   Board generation (ez)  
   check for combos/ make combos  
   Skyfall: replace combos w random orbs, and continue  
   Check strength of board (clusters).  
 
-Complete:  
+#Complete:  
 Orbs delegation  
